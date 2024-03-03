@@ -1,0 +1,27 @@
+.table{
+  text-align: center;
+  border: 2.5px solid rgb(80, 80, 80);
+  /* border-collapse: collapse; */
+  width: 70%;
+  height: auto;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin: auto;
+  /* width:100%; */ 
+  
+}
+.table th, .table td {
+  border: 2px solid #090909;
+  padding: 8px;
+  text-align: center;
+}
+.container{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  
+  
+  
+
+}
